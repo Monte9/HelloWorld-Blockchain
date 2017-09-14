@@ -1,0 +1,34 @@
+{
+  "contract_name": "HelloWorld",
+  "abi": [
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "balance",
+      "outputs": [
+        {
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "payable": false,
+      "type": "constructor"
+    }
+  ],
+  "unlinked_binary": "0x60606040523415600e57600080fd5b5b6103e86000555b5b6090806100256000396000f300606060405263ffffffff7c0100000000000000000000000000000000000000000000000000000000600035041663b69ef8a88114603c575b600080fd5b3415604657600080fd5b604c605e565b60405190815260200160405180910390f35b600054815600a165627a7a72305820fb9b1f65f12468ac0a0d66368336812ea8fd6523a124d9ffd9f53cb0e0710c460029",
+  "networks": {
+    "1505413569185": {
+      "events": {},
+      "links": {},
+      "address": "0x52d19824ac3b0ac46d1847ef1734d49ae99c1261",
+      "updated_at": 1505413720832
+    }
+  },
+  "schema_version": "0.0.5",
+  "updated_at": 1505413720832
+}
